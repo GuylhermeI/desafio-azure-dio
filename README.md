@@ -26,7 +26,7 @@ Aqui você encontrará uma lista de recursos úteis para se preparar para o exam
 
 Veja os projetos e desafios que completei durante o bootcamp:
 
-- **Projeto 1**: [Descrição do projeto e link para o código](https://github.com/GuylhermeI/desafio-azure-dio/blob/main/Desafio%20-%20Cria%C3%A7%C3%A3o-de-VM-em-Azure.md)
+- **Desafio 1**: [Descrição do projeto e link para o código](https://github.com/GuylhermeI/desafio-azure-dio/blob/main/Desafio%20-%20Cria%C3%A7%C3%A3o-de-VM-em-Azure.md)
 - **Desafio 2**: [Descrição do desafio e link para o código](https://github.com/GuylhermeI/desafio-azure-dio/blob/main/Desafio%20-%20Inst%C3%A2ncia%20de%20Banco%20de%20Dados.md)
 
 ## 🔗 Azure
