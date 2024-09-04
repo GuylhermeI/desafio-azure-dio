@@ -1,10 +1,35 @@
-# Redundância - SLA
+# Criação de VM em Azure | Redundância - SLA 
 ![9c7lhx7ijif11](https://github.com/user-attachments/assets/41d10d40-2b06-407d-b569-ca2f9ac80714)
 
-Com base nas aulas vistas anteriormente, é possível dizer que a porcentagem do SLA será definida a partir de vários fatores, um deles é a redundância, que será aplicada em algum serviço (VM por exemplo) que será criado.
+## 1. Acesse o Portal do Azure 🌐
 
-- LRS (Armazenamento com redundância local):
-    Quando criado uma VM tendo sua redundância como LRS significa que ela não esta em um cenário crítico, aonde não sera movido dados de extrema importância.
+Primeiro, faça login no [portal do Azure](https://portal.azure.com). É onde você vai gerenciar todos os seus recursos.
 
-- GZRS (Armazenamento de redundância zona geográfica):
-    Quando criado uma VM tendo sua redundância como GZRS, esta visando a segurança dos dados, sendo eles de extrema importância. Portando, é estabelecido esse nível de redundância quando a máquina é criada em um cenário de dados críticos.
+## 2. Criação da VM ➕
+
+No painel do Azure, procure por “Máquinas Virtuais” ou “Virtual Machines” na barra de pesquisa. Clique em **"Criar"** para começar a configuração.
+
+## 3. Preencha os Detalhes Básicos 📝
+
+- **Nome da VM**: Escolha um nome que ajude você a identificar a VM facilmente.
+- **Região**: Selecione a região onde a VM será criada. É uma boa ideia escolher uma que esteja perto dos seus usuários ou da sua localização.
+- **Imagem**: Escolha o sistema operacional que você deseja instalar na VM, como Windows ou Linux.
+- **Tamanho**: Selecione o tamanho da VM com base nas suas necessidades de CPU, memória e armazenamento.
+
+## 4. Configure as Opções de Rede 🌐
+
+- **Rede Virtual**: Crie uma nova rede ou selecione uma existente.
+- **Sub-rede**: Escolha a sub-rede onde a VM será conectada.
+- **Grupo de Segurança de Rede (NSG)**: Defina as regras de firewall para a sua VM.
+
+## 5. Defina as Credenciais de Login 🔑
+
+- **Nome de Usuário e Senha**: Configure um nome de usuário e senha para acessar a VM. Certifique-se de escolher uma senha segura.
+
+## 6. Revise e Crie 🔍
+
+Revise todas as configurações para garantir que tudo esteja correto. Clique em **"Criar"** e aguarde alguns minutos enquanto o Azure provisiona sua máquina virtual.
+
+## 7. Conecte-se à Sua VM 🌟
+
+Depois que a VM estiver criada, você pode se conectar a ela. Para VMs Windows, use o Remote Desktop (RDP). Para VMs Linux, você pode usar SSH.
