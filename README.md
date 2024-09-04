@@ -34,3 +34,28 @@ Veja os projetos e desafios que completei durante o bootcamp:
 - [Documentação do Azure](https://docs.microsoft.com/azure/)
 
 ---
+
+```cpp
+#include <iostream>
+#include <string>
+
+int main() {
+    std::string nivelEstudo;
+    
+    // Solicita ao usuário que informe seu nível de estudo
+    std::cout << "Qual é o seu nível de estudo para o AZ-900? (Básico/Avançado): ";
+    std::cin >> nivelEstudo;
+
+    // Condicional para determinar o resultado com base no nível de estudo
+    if (nivelEstudo == "Básico") {
+        std::cout << "Com o conhecimento básico, você está preparado para passar no AZ-900!" << std::endl;
+    } else if (nivelEstudo == "Avançado") {
+        std::cout << "Com um estudo mais aprofundado, você está a caminho de se tornar um especialista em Azure!" << std::endl;
+    } else {
+        std::cout << "Nível de estudo desconhecido. Por favor, insira 'Básico' ou 'Avançado'." << std::endl;
+    }
+
+    return 0;
+}
+
+```
