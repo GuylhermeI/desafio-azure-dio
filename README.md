@@ -4,15 +4,15 @@
 
 ## 📁 Repositório AZ-900
 
-Bem-vindo ao repositório do **Bootcamp AZ-900** da DIO! Aqui você encontrará todos os recursos e links que vou utilizar para concluir o bootcamp e consolidar meu aprendizado.
+Bem-vindo ao repositório do **Bootcamp AZ-900** da DIO! Aqui você encontrará todos os recursos e links que vou utilizar para concluir o bootcamp.
 
 ## 🗂️ O Que Você Encontrará Aqui
 
-Este repositório está organizado para ajudar a armazenar e gerenciar todos os materiais do bootcamp. Confira abaixo as principais seções:
+Este repositório está organizado para ajudar a armazenar e gerenciar todos os materiais do bootcamp.
 
 - **📚 Recursos de Estudo**: Links e materiais recomendados para o estudo do AZ-900.
 - **💻 Projetos e Desafios**: Códigos e exercícios práticos realizados durante o bootcamp.
-- **🔗 Link Útil:**: Links para documentação, vídeos e outros recursos externos.
+- **🔗 Link Útil**: Link para a documentação oficial (Material de grande importância para o exame AZ-900)
 
 ## 🔍 Recursos de Estudo
 
