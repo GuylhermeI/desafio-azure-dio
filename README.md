@@ -4,7 +4,7 @@
 
 ## 📁 Repositório AZ-900
 
-Bem-vindo ao repositório do **Bootcamp AZ-900** da DIO! Aqui você encontrará todos os recursos e links que vou utilizar para concluir o bootcamp.
+Bem-vindo ao repositório do **Bootcamp AZ-900** da DIO! Aqui você encontrará alguns dos recursos e links que vou utilizar para concluir o bootcamp.
 
 ## 🗂️ O Que Você Encontrará Aqui
 
