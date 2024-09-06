@@ -1,10 +1,10 @@
-# 🎓 Bootcamp AZ-900 - DIO 
+# 🎓 Microsoft Azure Essentials - DIO 
 
 ![ponyo-is-spitting-water-waoxs43n116ugbl6](https://github.com/user-attachments/assets/ee4e05da-7a82-4acf-99f8-6d42eea96ea9)
 
 ## 📁 Repositório AZ-900
 
-Bem-vindo ao repositório do **Bootcamp AZ-900** da DIO! Aqui você encontrará alguns dos recursos e links que vou utilizar para concluir o bootcamp.
+Bem-vindo ao repositório do **Bootcamp Microsoft Azure Essentials** da DIO! Aqui você encontrará alguns dos recursos e links que vou utilizar para concluir o bootcamp.
 
 ## 🗂️ O Que Você Encontrará Aqui
 
