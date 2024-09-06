@@ -1,6 +1,6 @@
 # 🎓 Bootcamp AZ-900 - DIO 
 
-![_3fYL8i6Q-n-155t3dn_4hksVs3MIJxHadG7A7FI_oTy9pL-UqrC-cycJtDkuZzC](https://github.com/user-attachments/assets/1ffece00-af0f-4c54-b2f0-bc53f163b116)
+![8CoC](https://github.com/user-attachments/assets/ed7b2ad9-a736-4b1f-bedb-747e0dd29600)
 
 ## 📁 Repositório AZ-900
 
