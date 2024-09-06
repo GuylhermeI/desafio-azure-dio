@@ -33,6 +33,7 @@ Veja os projetos e desafios que completei durante o bootcamp:
 - **Desafio 5**: [Dominando Armazenamento Azure](https://github.com/GuylhermeI/desafio-azure-dio/blob/main/Desafio%2305%20-%20Dominando-Armazenamento-Azure.md)
 - **Desafio 6**: [Acesso | Microsoft Entra ID | Defender for Cloud](https://github.com/GuylhermeI/desafio-azure-dio/blob/main/Desafio%2306%20-%20Identidade-Acesso-Seguran%C3%A7a.md)
 - **Desafio 7**: [Otimizando Custos no Azure](https://github.com/GuylhermeI/desafio-azure-dio/blob/main/Desafio%2307%20-%20Otimizando-Custos-Azure.md)
+- **Desafio 8**: [Gerenciando Políticas | Azure](https://github.com/GuylhermeI/desafio-azure-dio/blob/main/Desafio%2308%20-%20Gerenciando-Pol%C3%ADticas-Acesso-Azure.md)
 
 ## 🔗 Azure
 
