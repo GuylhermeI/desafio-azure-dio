@@ -69,7 +69,7 @@ O **Azure Advisor** é um serviço de recomendação que fornece conselhos perso
 
 Meus parabéns por ter finalizado todos os módulos do Bootcamp **Microsoft Azure Essentials!**
 
-Os conhecimento adquiridos por todo esse caminho foi de extrema importância para o seu desenvolvimento profissional, e tenho certeza que você está pronto/a para o AZ-900.
+Os conhecimentos adquiridos por todo esse caminho foi de extrema importância para o seu desenvolvimento profissional, e tenho certeza que você está pronto/a para o AZ-900.
 
 Continue com seus estudos em TI, pois o mercado esta em constante evolução, e você deve acompanha-lo. Não deixe que nada nem ninguém te desanime dos seus objetivos, saiba que:
 
