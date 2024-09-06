@@ -1,6 +1,6 @@
 # 🎓 Bootcamp AZ-900 - DIO 
 
-![8CoC](https://github.com/user-attachments/assets/ed7b2ad9-a736-4b1f-bedb-747e0dd29600)
+![ponyo-is-spitting-water-waoxs43n116ugbl6](https://github.com/user-attachments/assets/ee4e05da-7a82-4acf-99f8-6d42eea96ea9)
 
 ## 📁 Repositório AZ-900
 
