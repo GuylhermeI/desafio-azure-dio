@@ -71,7 +71,7 @@ Meus parabéns por ter finalizado todos os módulos do Bootcamp **Microsoft Azur
 
 Os conhecimentos adquiridos por todo esse caminho foi de extrema importância para o seu desenvolvimento profissional, e tenho certeza que você está pronto/a para o AZ-900.
 
-Continue com seus estudos em TI, pois o mercado esta em constante evolução, e você deve acompanha-lo. Não deixe que nada nem ninguém te desanime dos seus objetivos, saiba que:
+Continue com seus estudos em TI, pois o mercado está em constante evolução, e você deve acompanha-lo. Não deixe que nada nem ninguém te desanime dos seus objetivos, saiba que:
 
 **A única pessoa que fará o seu futuro é você mesmo/a ♡**
 
