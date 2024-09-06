@@ -1,5 +1,6 @@
 # Criação de VM em Azure | Redundância - SLA 
-![9c7lhx7ijif11](https://github.com/user-attachments/assets/41d10d40-2b06-407d-b569-ca2f9ac80714)
+
+![kawaii-cat-cheerful-dance-7hpalfa53geygxqa](https://github.com/user-attachments/assets/3f26af72-2191-4a00-a495-88b51af22836)
 
 ## 1. Acesse o Portal do Azure 🌐
 
